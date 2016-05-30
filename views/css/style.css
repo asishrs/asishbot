@@ -77,6 +77,12 @@ p {
   margin-bottom: 0px;
   color: #666;
 }
+.sk-msg-wrapper{
+  min-width: 310px;
+}
+.sk-msg{
+  max-width: 310px !important;
+}
 .profile-social-links {
   position: relative;
   background-color: #F0F0F0;
