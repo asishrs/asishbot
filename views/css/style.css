@@ -1,6 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:900,300);
 body {
-  background-color: #f0f0f0;
+  background-color: #00aeff;
   font-family: roboto;
 }
 .container {
@@ -66,14 +66,89 @@ h2 {
   color: #333;
 }
 h4 {
-  font-size: 13px;
+  font-size: 15px;
   color: #00baff;
   letter-spacing: 1px;
-  margin-bottom: 25px
+  margin-bottom: 10px
 }
 p {
   font-size: 16px;
   line-height: 26px;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
   color: #666;
+}
+.profile-social-links {
+  position: relative;
+  background-color: #F0F0F0;
+  margin: 0 auto;
+  text-align: center;
+  padding: 6px 0;
+}
+.profile-social-links li {
+  display: inline-block;
+  padding: 3px 5px 0;
+}
+.profile-social-links li img {
+  height: 28px;
+  opacity: 0.8;
+  -webkit-transition: all .2s ease-out;
+  transition: all .2s ease-out;
+}
+.profile-social-links li a:hover img {
+  opacity: 1;
+  -webkit-transform: scale(1.1, 1.1);
+          transform: scale(1.1, 1.1);
+}
+.profile-social-links:after {
+  bottom: 100%;
+  left: 50%;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+  border-color: rgba(255, 255, 255, 0);
+  border-bottom-color: #ffffff;
+  border-width: 10px;
+  margin-left: -10px;
+}
+
+.container_button {
+  border: 2px solid #008BCC;
+  width: 300px;
+  text-align: center;
+  height: 48px;
+  padding: 2px 4px;
+  border-radius: 100px;
+  color: #008BCC;
+  margin: 0 auto;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+  position: relative;
+  z-index: 3;
+  line-height: 42px;
+  font-size: 14px;
+}
+.container_button:hover {
+  box-shadow: 0px 0px 0px 6px rgba(0, 0, 0, 0.2);
+  background: #008BCC;
+  color: #ffffff
+}
+.container_button:hover span i {
+  margin-right: 10px;
+}
+.container_button:active {
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.2);
+}
+
+.ion-ios-chatbubble-outline{
+  font-size: 40px;
+}
+
+fb-chat{
+  font-size: 15px !important;
+  vertical-align: middle;
+  padding-left: 2px;
+  font-family: roboto;
 }
