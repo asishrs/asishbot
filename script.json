@@ -1,9 +1,10 @@
 {
     "HI": "Hi there!\nGet started by saying BOT.",
-    "BOT": "Hi there!\nI’m the personal bot of Asish, a Software Engineer based on Phoenix.\n![asish](https://raw.githubusercontent.com/asishrs/asishbot/master/img/asish.jpg)\nWant to know more about bots or learn about Asish? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Asish](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
+    "BOT": "Hi there!\nI’m the personal bot of Asish, a Software Engineer based on Phoenix.\n![asish](https://raw.githubusercontent.com/asishrs/asishbot/master/img/asish.jpg)\nWant to know more about bots or learn about Asish? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Asish](postback:learn_about_asish) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you set AsishBot up! Do you want to tell Asish that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HIM": "Let's tweet @ asishrs so he knows you're enjoying the bot. Here's a tweet that's ready to go: %[Tweet Asish](http://tinyurl.com/asishbot-tweet)",
     "HERE FOR THE BOT": "Awesome! Please play with the BOT. If you have any feedback or an oppurtunity, please connect with me.",
+    "LEARN ABOUT ASISH":"Test",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, AsishBot is back."
     
