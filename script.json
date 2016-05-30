@@ -1,10 +1,13 @@
 {
     "HI": "Hi there!\nGet started by saying BOT.",
-    "BOT": "Hi there!\nI’m the personal bot of Asish, a Software Engineer based on Phoenix.\n![asish](https://raw.githubusercontent.com/asishrs/asishbot/master/img/asish.jpg)\nWant to know more about bots or learn about Asish? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Asish](postback:learn_about_asish)",
+    "BOT": "Hi there!\nI’m the personal bot of Asish, a Software Engineer based on Phoenix.\n![asish](http://bot.asishrs.com/img/asish.jpg)\nWant to know more about bots or learn about Asish? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Asish](postback:learn_about_asish)",
     "HELLO": "Hey, I'm so glad you set AsishBot up! Do you want to tell Asish that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HIM": "Let's tweet @ asishrs so he knows you're enjoying the bot. Here's a tweet that's ready to go: %[Tweet Asish](http://tinyurl.com/asishbot-tweet)",
     "I'M HERE FOR THE BOT": "Awesome! Please play with the BOT. If you have any feedback or an oppurtunity, please connect with me.",
-    "LEARN ABOUT ASISH":"Test",
+    "LEARN ABOUT ASISH":"I am here for you, I can tell bunch of things about Asish. Let me know what's interesting to you.\n %[Education](postback:education) %[Career](postback:career) %[Hobbies](postback:hobbies)",
+    "EDUCATION": "Asish has got Bachelors in Information Technology from Cochin University of Science and Technology.\n His favorites subjects were Algorithms and Cryptography",
+    "CARRER": "Asish has 9 years of experience in Information Technology and he is a true beleiver of solving problems using technology.\nHe has got many recognizations for the innovative ideas and dedication.\nHe has successfully lead many initiatives for the organizations and was part of the innovation team.\nHe helped many product teams to create mobile strategy.%[Previous Employers](postback:previous_employers) %[Right Now](postback:right_now)",
+    "PREVIOUS EMPLOYERS": "Asish worked with 5 employers. Below are those Employersines and Roles.\n!Technical Porduct Owner - Investmnet Banking Mobile @ [JPMorgan Chase & Co](http://bot.asishrs.com/img/jpm.svg)\nApplication Developer - Risk @ MSCI Inc.",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, AsishBot is back."
     
