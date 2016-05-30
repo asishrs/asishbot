@@ -83,6 +83,9 @@ p {
 .sk-msg{
   max-width: 310px !important;
 }
+.sk-action .btn{
+  min-width: 200px;
+}
 .profile-social-links {
   position: relative;
   background-color: #F0F0F0;
