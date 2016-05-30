@@ -8,7 +8,7 @@ const path = require('path');
 
 app.set('views', path.join(__dirname, 'views'));
 app.use(express.static(__dirname + '/public'));
-app.use(favicon(__dirname + '/public/img/favicon.png'));
+app.use(favicon(__dirname + '/public/img/favicon.ico'));
 app.set('view engine', 'hbs');
 app.use(bodyParser.json());
 
