@@ -78,7 +78,7 @@ p {
   color: #666;
 }
 .sk-msg-wrapper{
-  min-width: 310px;
+  max-width: 310px;
 }
 .sk-msg{
   max-width: 310px !important;
