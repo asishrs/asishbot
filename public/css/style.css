@@ -81,5 +81,5 @@ p {
   min-width: 310px;
 }
 .sk-msg{
-  min-width: 310px;
+  max-width: 310px;
 }
