@@ -13,7 +13,7 @@ app.set('view engine', 'hbs');
 app.use(bodyParser.json());
 app.use(helmet(frameguard({
   action: 'allow-from',
-  domain: 'https://www.linkedin.com'
+  domain: 'http://*.asishrs.com'
 })));
 
 app.get('/', function(req, res) {
