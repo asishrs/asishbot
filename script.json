@@ -1,7 +1,7 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Asish, a Software Engineer based on Phoenix.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Asish? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Asish](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
+    "BOT": "Hi there!\nI’m the personal bot of Asish, a Software Engineer based on Phoenix.\n![esther](https://raw.githubusercontent.com/asishrs/asishbot/master/img/asish.jpg)\nWant to know more about bots or learn about Asish? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Asish](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you set AsishBot up! Do you want to tell Asish that you're talking to his bot? %[Tell him](postback:twitter)",
-    "TELL HER": "Let's tweet @ asishrs so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Asish](http://bit.ly/estherbot-tweet)",
+    "TELL HER": "Let's tweet @ asishrs so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Asish](http://tinyurl.com/asishbot-tweet)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, AsishBot is back."
 }
