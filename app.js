@@ -18,7 +18,7 @@ app.use(bodyParser.json());
 
 app.use(frameguard({
   action: 'allow-from',
-  domain: '*'
+  domain: 'ALLOWALL'
 }))
 
 app.get('/', function(req, res) {
