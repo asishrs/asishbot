@@ -155,6 +155,11 @@ p {
   font-size: 40px;
 }
 
+.sk-embedded {
+  height: 150px;
+  width: 150px;
+}
+
 fb-chat{
   font-size: 15px !important;
   vertical-align: middle;
