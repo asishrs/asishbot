@@ -1,7 +1,7 @@
 {
     "HI": "Hi there!\nGet started by saying BOT.",
     "YO": "Hi there!\nI am the personal bot of Asish, a Software Engineer based on Phoenix.\nWant to know more about bots or learn about Asish? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Asish](postback:learn_about_asish)",
-    "BOT": "Hi there!\nI’m the personal bot of Asish, a Software Engineer based on Phoenix.\n![asish](https://github.com/asishrs/asishbot/blob/master/img/asish.jpg)\nWant to know more about bots or learn about Asish? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Asish](postback:learn_about_asish)",
+    "BOT": "Hi there!\nI’m the personal bot of Asish, a Software Engineer based on Phoenix.\n[asish](https://github.com/asishrs/asishbot/blob/master/img/asish.jpg)\nWant to know more about bots or learn about Asish? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Asish](postback:learn_about_asish)",
     "HELLO": "Hey, I'm so glad you checking AsishBot! Do you want to tell Asish that you're talking to his bot? %[Tell him](postback:twitter) %[Learn about Asish](postback:learn_about_asish)",
     "TELL HIM": "Let's tweet @ asishrs so he knows you're enjoying the bot. Here's a tweet that's ready to go: %[Tweet Asish](http://tinyurl.com/asishbot-tweet)",
     "I'M HERE FOR THE BOT": "Awesome! Please play with the BOT. If you have any feedback or an opportunity, please connect with me.",
