@@ -156,8 +156,7 @@ p {
 }
 
 .sk-embedded {
-  height: 150px;
-  width: 150px;
+  width: 400px !important;
 }
 
 fb-chat{
